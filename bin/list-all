@@ -18,7 +18,7 @@
 set -e
 set -o pipefail
 
-github_coordinates="getzola/zola"
+github_coordinates="imag1ne/zola-csis"
 releases_path="https://api.github.com/repos/${github_coordinates}/releases"
 
 cmd="curl -s"

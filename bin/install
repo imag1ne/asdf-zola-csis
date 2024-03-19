@@ -18,7 +18,7 @@
 set -e
 set -o pipefail
 
-github_coordinates="getzola/zola"
+github_coordinates="imag1ne/zola-csis"
 tool_name="zola"
 
 install_tool() {
